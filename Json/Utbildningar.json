@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "Utbildning": "Systemutveckling C# .NET"
+    },
+    {
+        "id": 2,
+        "Utbildning": "B körkort"
+    },
+    {
+        "id": 3,
+        "Utbildning": "Truckkort TLP 10"
+    },
+    {
+        "id": 4,
+        "Utbildning": "Magnaflux utbildning"
+    },
+    {
+        "id": 5,
+        "Utbildning": "Gymnasie kompetens Teknik inriktning data."
+    }
+]
