@@ -1,2 +1,2 @@
 # WebutvecklingsProject
-En react himesida och en vanlig.
+Att utnyttja html5s taggar är bra istället för att använda sig av enbart div taggar. Denna sida är anpassad för högupplösning och lägre upplösningar. Sidan har stor och tydlig text och ett färgtema som ska vara acceptabelt synlig med tillräcklig kontrast. Sidan har också möjlighet att köras på lågupplösta skärmer och krymper till en anpassad sida. Sidan har också alt på bilderna som förklarar vad som finns på sidan. Du kan skriva 1337 för att få up en modal och klicka på en riddare så ändras färgtemat för tillfället.
